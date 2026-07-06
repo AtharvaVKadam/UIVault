@@ -6,7 +6,8 @@
 
 ## 🎥 See it in Action
 
----
+[UI-Vault.webm](https://github.com/user-attachments/assets/9ca55e63-1099-49e9-a998-35b1b0fcc61a)
+
 
 ## 📖 Overview
 
@@ -214,7 +215,7 @@ The project is deployed using **Vercel**.
 
 Live Demo:
 
-https://YOUR_VERCEL_URL.vercel.app/
+https://ui-vault11.vercel.app/
 
 ---
 
@@ -231,7 +232,7 @@ Feel free to fork the repository and submit a pull request.
 **Atharva Kadam**
 
 - GitHub: https://github.com/AtharvaVKadam
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/
+- LinkedIn: https://www.linkedin.com/in/atharvakadam11/
 
 ---
 
