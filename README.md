@@ -1,15 +1,15 @@
-# 🎨 UI Vault: Modern UI Component Library & Developer Toolkit
+# UI Vault: Modern UI Component Library & Developer Toolkit
 
 🚀 **Live Demo:** https://ui-vault11.vercel.app/
 
 ---
 
-## 🎥 See it in Action
+## See it in Action
 
 [UI-Vault.webm](https://github.com/user-attachments/assets/9ca55e63-1099-49e9-a998-35b1b0fcc61a)
 
 
-## 📖 Overview
+## Overview
 
 UI Vault is a modern developer-focused UI component library built to simplify frontend development workflows.
 
@@ -19,33 +19,33 @@ Designed with scalability and usability in mind, UI Vault enables developers to 
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔍 Global Component Search
+### Global Component Search
 
 Search components instantly across categories using React Context API powered state management.
 
-### 📋 Copy-to-Clipboard Support
+### Copy-to-Clipboard Support
 
 One-click code copying for rapid integration into existing projects.
 
-### 🌙 Dark Mode Support
+### Dark Mode Support
 
 Fully responsive dark theme with consistent UI styling.
 
-### 🧩 Reusable Component Architecture
+### Reusable Component Architecture
 
 Modular and scalable component organization for easy maintenance and extension.
 
-### ⚡ Live Component Preview
+### Live Component Preview
 
 View component behavior and appearance before integration.
 
-### 📱 Responsive Design
+### Responsive Design
 
 Optimized layouts for desktop, tablet, and mobile devices.
 
-### 🏷️ Multiple Component Categories
+### Multiple Component Categories
 
 Includes:
 
@@ -59,7 +59,7 @@ Includes:
 
 ---
 
-## 🏗️ Application Architecture
+## Application Architecture
 
 ```text
 Search Context Provider
@@ -112,7 +112,7 @@ Preview + HTML + CSS
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src/
@@ -142,7 +142,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone Repository
 
@@ -171,7 +171,7 @@ http://localhost:5173
 
 ---
 
-## 📦 Build for Production
+## Build for Production
 
 ```bash
 npm run build
@@ -199,7 +199,7 @@ Organized UI elements into scalable categories allowing seamless addition of fut
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Component tagging and advanced filtering
 - Favorites and bookmarks
@@ -209,7 +209,7 @@ Organized UI elements into scalable categories allowing seamless addition of fut
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 The project is deployed using **Vercel**.
 
@@ -219,7 +219,7 @@ https://ui-vault11.vercel.app/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome.
 
@@ -227,7 +227,7 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Atharva Kadam**
 
@@ -236,10 +236,10 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-## ⭐ Support
+## Support
 
 If you found this project useful, consider giving it a star on GitHub.
 
 It helps support future development and improvements.
 
-⭐ Star this repository if you found it helpful!
+Star this repository if you found it helpful!
